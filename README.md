@@ -13,9 +13,10 @@ Players can bet on which turtle (by color) will win, and then watch them race ac
 
 ---
 
-## 🖥️ Demo Screenshot<
+## 🖥️ Demo Screenshot
 
-<img width="964" height="970" alt="image" src="https://github.com/user-attachments/assets/7db58bc3-01f4-4c70-a584-f18eac590d87" />
+<img width="896" height="716" alt="image" src="https://github.com/user-attachments/assets/eb0a47fc-d52e-41e8-a1be-0d10d9200cc0" />
+
 
 ---
 
